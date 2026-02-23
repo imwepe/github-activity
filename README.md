@@ -44,13 +44,13 @@ https://api.github.com/users/<username>/events
 <h2>Make SURE you have GOLANG installed in your device!</h2>
 
 ### 1. Clone the repository
-git clone https://github.com/imwepe/github-activity.git
+<code>git clone https://github.com/imwepe/github-activity.git</code>
 
-cd github-activity
+<code>cd github-activity</code>
 
 
 ### 2. Run the program
-go run main.go
+<code>go run main.go</code>
 
 ### 3. Follow the interactive prompts
 
