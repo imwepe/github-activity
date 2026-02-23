@@ -45,6 +45,7 @@ https://api.github.com/users/<username>/events
 
 ### 1. Clone the repository
 git clone https://github.com/imwepe/github-activity.git
+
 cd github-activity
 
 
